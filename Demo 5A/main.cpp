@@ -17,7 +17,7 @@ void CopierFichier(string Chemin1, string Chemin2);
 
 void main(void)
 {
-	EcrirePlusieursLignesALaFin();
+	CopierFichier("X:\\Temp\\texte2.txt", "X:\\Temp\\texte2-copie.txt");
 
 }
 

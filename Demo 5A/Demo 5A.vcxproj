@@ -133,6 +133,8 @@
     <ClCompile Include="1.1.4.cpp" />
     <ClCompile Include="1.2.1.cpp" />
     <ClCompile Include="1.2.2.cpp" />
+    <ClCompile Include="1.2.33.cpp" />
+    <ClCompile Include="1.2.4.cpp" />
     <ClCompile Include="demo binaire.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
